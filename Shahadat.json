@@ -16,11 +16,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐇𝐚𝐛𝐢𝐛 𝐈𝐬𝐥𝐚𝐦𝐢𝐜 𝐁𝐨𝐭",
+    "BOTNAME": "─꯭─⃝‌‌𝐇𝐚𝐛𝐢𝐛 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100082962740878",
-        "100079043707149"
+        "100079043707149",
+        "100001039692046",
+        "100001039692046"
     ],
     "NDH": [
         "100001039692046"
@@ -51,7 +52,7 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 1000000000
+        "rewardCoin": 1000
     },
     "diemdanh": {
         "cooldownTime": 3000000
@@ -231,16 +232,11 @@
         "autoUnsend": true,
         "delayUnsend": 300
     },
-    "spam": {
-        "autoUnsend": "",
-        "delayUnsend": 2000
-    },
-    "adminNoti": {
+    "helpall": {
         "autoUnsend": true,
-        "sendNoti": true,
-        "timeToUnsend": 10
+        "delayUnsend": 20
     },
-    "videov2": {
-        "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
+    "vip": {
+        "cooldownTime": 1200000
     }
 }
